@@ -1,0 +1,130 @@
+band number: 0
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 1
+bad pixels: [[1, 36], [6, 11], [7, 25], [10, 11], [24, 7], [25, 27], [29, 15], [29, 51], [44, 27], [45, 30], [59, 24], [61, 37]]
+correct value: [775.25, 783.875, 801.5, 794.75, 876.375, 859.0, 825.0, 821.0, 785.125, 792.25, 812.5, 833.5]
+total l1 loss: 77
+
+band number: 2
+bad pixels: [[2, 6], [2, 16], [9, 31], [14, 35], [30, 12], [47, 43], [49, 2], [51, 38], [52, 28], [54, 8]]
+correct value: [704.0, 707.75, 828.625, 766.125, 744.25, 702.75, 704.0, 724.625, 752.75, 723.125]
+total l1 loss: 173
+
+band number: 3
+bad pixels: [[11, 26], [28, 34], [31, 6], [31, 59], [38, 3], [43, 30], [53, 15], [58, 9], [60, 32]]
+correct value: [403.875, 611.375, 475.25, 428.875, 368.25, 359.875, 402.375, 392.5, 432.875]
+total l1 loss: 226
+
+band number: 4
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 5
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 6
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 7
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 8
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 9
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 10
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 11
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 12
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 0
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 1
+bad pixels: [[1, 36], [6, 11], [7, 25], [10, 11], [24, 7], [25, 27], [29, 15], [29, 51], [44, 27], [45, 30], [59, 24], [61, 37]]
+correct value: [775.25, 783.875, 801.5, 794.75, 876.375, 859.0, 825.0, 821.0, 785.125, 792.25, 812.5, 833.5]
+total l1 loss: 77
+
+band number: 2
+bad pixels: [[2, 6], [2, 16], [9, 31], [14, 35], [30, 12], [47, 43], [49, 2], [51, 38], [52, 28], [54, 8]]
+correct value: [704.0, 707.75, 828.625, 766.125, 744.25, 702.75, 704.0, 724.625, 752.75, 723.125]
+total l1 loss: 173
+
+band number: 3
+bad pixels: [[11, 26], [28, 34], [31, 6], [31, 59], [38, 3], [43, 30], [53, 15], [58, 9], [60, 32]]
+correct value: [403.875, 611.375, 475.25, 428.875, 368.25, 359.875, 402.375, 392.5, 432.875]
+total l1 loss: 226
+
+band number: 4
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 5
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 6
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 7
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 8
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 9
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 10
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 11
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
+band number: 12
+bad pixels: []
+correct value: []
+total l1 loss: 0
+
